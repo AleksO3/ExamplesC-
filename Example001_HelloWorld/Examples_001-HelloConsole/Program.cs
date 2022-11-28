@@ -1,3 +1,1 @@
-﻿
-Console.WriteLine("Hello, Aleks, World!");
-Console.WriteLine("practice");
+﻿Console.WriteLine("Hello, Aleks, World!");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\кодинг\\Geek Brains\\Работа с GIT\\ExamplesC#\\Examples_001-HelloConsole\\Examples_001-HelloConsole.csproj": {}
+    "F:\\кодинг\\Geek Brains\\Работа с GIT\\ExamplesC#\\Example001_HelloWorld\\Examples_001-HelloConsole\\Examples_001-HelloConsole.csproj": {}
   },
   "projects": {
-    "F:\\кодинг\\Geek Brains\\Работа с GIT\\ExamplesC#\\Examples_001-HelloConsole\\Examples_001-HelloConsole.csproj": {
+    "F:\\кодинг\\Geek Brains\\Работа с GIT\\ExamplesC#\\Example001_HelloWorld\\Examples_001-HelloConsole\\Examples_001-HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\кодинг\\Geek Brains\\Работа с GIT\\ExamplesC#\\Examples_001-HelloConsole\\Examples_001-HelloConsole.csproj",
+        "projectUniqueName": "F:\\кодинг\\Geek Brains\\Работа с GIT\\ExamplesC#\\Example001_HelloWorld\\Examples_001-HelloConsole\\Examples_001-HelloConsole.csproj",
         "projectName": "Examples_001-HelloConsole",
-        "projectPath": "F:\\кодинг\\Geek Brains\\Работа с GIT\\ExamplesC#\\Examples_001-HelloConsole\\Examples_001-HelloConsole.csproj",
+        "projectPath": "F:\\кодинг\\Geek Brains\\Работа с GIT\\ExamplesC#\\Example001_HelloWorld\\Examples_001-HelloConsole\\Examples_001-HelloConsole.csproj",
         "packagesPath": "C:\\Users\\Aleks\\.nuget\\packages\\",
-        "outputPath": "F:\\кодинг\\Geek Brains\\Работа с GIT\\ExamplesC#\\Examples_001-HelloConsole\\obj\\",
+        "outputPath": "F:\\кодинг\\Geek Brains\\Работа с GIT\\ExamplesC#\\Example001_HelloWorld\\Examples_001-HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aleks\\AppData\\Roaming\\NuGet\\NuGet.Config"
