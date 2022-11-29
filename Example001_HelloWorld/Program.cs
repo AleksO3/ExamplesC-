@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, Aleks, World!"); 
+﻿Console.WriteLine("Hello, Aleks, World!"); // Выводим на экран "..."
