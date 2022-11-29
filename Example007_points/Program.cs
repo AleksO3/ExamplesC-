@@ -1,16 +1,16 @@
-﻿Console.Clear();
-//Console.SetCursorPosition(10,4);
-//Console.WriteLine("+");
+﻿Console.Clear();                    // Очищает терминал перед выводом
+//Console.SetCursorPosition(10,4);  // Рисуем "точку" с координатами т.А (отступ по X равен 1 и отступ по y равен 1)
+//Console.WriteLine("+");           // Выводим на экран + с вышеуказанными координатами
 
-int xa = 1, ya = 1,
+int xa = 1, ya = 1,                 // Задаем целочисленные значения координат через запятую для удобства. В конце не забываем ;
     xb = 1, yb = 10,
     xc = 50, yc = 10;
 
-Console.SetCursorPosition(xa,ya);
-Console.WriteLine("+");
+Console.SetCursorPosition(xa,ya);   // Рисуем "точку" с координатами
+Console.WriteLine("+");             // Выводим на экран + с вышеуказанными координатами
 
-Console.SetCursorPosition(xb,yb);
-Console.WriteLine("+");
+Console.SetCursorPosition(xb,yb);   // Рисуем "точку" с координатами
+Console.WriteLine("+");             // Выводим на экран + с вышеуказанными координатами
 
-Console.SetCursorPosition(xc,yc);
-Console.WriteLine("+");
+Console.SetCursorPosition(xc,yc);   // Рисуем "точку" с координатами
+Console.WriteLine("+");             // Выводим на экран + с вышеуказанными координатами
