@@ -3,7 +3,7 @@ Console.Clear();
 int[] array = { 1, 12, 31, 4, 15, 16, 17, 18 }; // указываем массив [] array
 
 int n = array.Length;
-int find = 177;
+int find = 18;
 int index = 0;
 while (index < n)
 {
